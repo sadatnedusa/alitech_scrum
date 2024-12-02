@@ -111,8 +111,6 @@ In conclusion, while software estimations are often wrong due to uncertainty, co
 
    <img width="241" alt="image" src="https://github.com/user-attachments/assets/6bdae9c7-438e-4b69-9373-33d1de76b4d1">
 
-     \[     \text{Estimate} = \frac{O + 4M + P}{6}     \]
-
    - This approach helps provide a more balanced view of the task’s duration and effort.
 
    **Benefits**:
